@@ -42,8 +42,8 @@ local vapeAssetTable = {
 	["vape/assets/MoreButton1.png"] = "rbxassetid://13350775005",
 	["vape/assets/MoreButton2.png"] = "rbxassetid://13350775731",
 	["vape/assets/MoreButton3.png"] = "rbxassetid://13350776241",
-	["vape/assets/NotificationBackground.png"] = "rbxassetid://13350776706",
-	["vape/assets/NotificationBar.png"] = "rbxassetid://13350777235",
+	["vape/assets/NotificationBackground.png"] = "rbxassetid://18416979044",
+	["vape/assets/NotificationBar.png"] = "rbxassetid://18416993563",
 	["vape/assets/OnlineProfilesButton.png"] = "rbxassetid://13350777717",
 	["vape/assets/PencilIcon.png"] = "rbxassetid://13350778187",
 	["vape/assets/PinButton.png"] = "rbxassetid://13350778654",
@@ -82,8 +82,8 @@ local vapeAssetTable = {
 	["vape/assets/RenderIcon.png"] = "rbxassetid://13350832775",
 	["vape/assets/VapeLogo1.png"] = "rbxassetid://13350860863",
 	["vape/assets/VapeLogo3.png"] = "rbxassetid://13350872035",
-	["vape/assets/VapeLogo2.png"] = "rbxassetid://13350876307",
-	["vape/assets/VapeLogo4.png"] = "rbxassetid://13350877564"
+	["vape/assets/VapeLogo2.png"] = "rbxassetid://18416925739",
+	["vape/assets/VapeLogo4.png"] = "rbxassetid://18416922302"
 }
 if inputService:GetPlatform() ~= Enum.Platform.Windows then
 	--mobile exploit fix
